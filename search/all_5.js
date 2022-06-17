@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['setup_11',['setup',['../namespacesetup.html',1,'']]],
-  ['setup_2epy_12',['setup.py',['../setup_8py.html',1,'']]]
+  ['main_9',['main',['../namespacetls__ftpd.html#a2a0e39572183a3bb2adf716b852b2719',1,'tls_ftpd']]]
 ];

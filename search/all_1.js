@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['def_5frequirements_2',['def_requirements',['../namespacesetup.html#a8bcf413ae09e23999d429b1d334bc592',1,'setup']]]
+  ['certfile_2',['CERTFILE',['../namespacetls__ftpd.html#a107e8b3e43a65558b2bb8c33cac1dc52',1,'tls_ftpd']]]
 ];
