@@ -1,3 +1,6 @@
+# Key Files
+*.pem
+
 # Config files
 *.txt
 *.conf
