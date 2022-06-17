@@ -7,7 +7,7 @@ import sys
 
 def handler() -> None:
     """
-        Manages the CL arguments and distributes them to appropriate commands.
+    Manages the CL arguments and distributes them to appropriate commands.
     """
     if sys.argv:
         print("Hallo")
