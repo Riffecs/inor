@@ -1,7 +1,7 @@
 var indexSectionsWithContent =
 {
   0: "_cdhimrst",
-  1: "ist",
+  1: "is",
   2: "_hrst",
   3: "dhmr",
   4: "c",
