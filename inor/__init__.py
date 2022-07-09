@@ -34,33 +34,10 @@ def handler() -> None:
 
         # Converts the Numpy array back to a normal list
         flags: list[str] = np.ndarray.tolist(command_list)
-
-        # Transfer the NumPy array with all configs to the relevant functions.
-        if loader == "start":
-            riox.install()
-        elif loader == "update":
-            riox.update()
-        elif loader == "remove":
-            riox.remove()
-        elif loader == "search":
-            riox.search()
-        elif loader == "freeze":
-            riox.freeze()
-        elif loader == "config":
-            riox.config()
-        elif loader == "check":
-            riox.check()
-        elif loader == "installer":
-            riox.installer()
-        elif loader == "uninstall":
-            riox.uninstall()
-        elif loader == "login":
-            riox.login()
-        else:
-            # If no command was found, it aborts the program.
-            error.error_message("no command was found")
-    else:
-        error.error_message("no input")
+        
+        # PyLint container
+        riox = "riox"
+        print(riox, flags)    
 
     # End Time Managment
     diff = datetime.now() - start
