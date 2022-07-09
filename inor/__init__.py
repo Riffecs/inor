@@ -34,10 +34,10 @@ def handler() -> None:
 
         # Converts the Numpy array back to a normal list
         flags: list[str] = np.ndarray.tolist(command_list)
-        
+
         # PyLint container
         riox = "riox"
-        print(riox, flags)    
+        print(riox, flags, error, loader)
 
     # End Time Managment
     diff = datetime.now() - start
