@@ -1,3 +1,6 @@
+Starting tomorrow, this git will be available as read only. This git will be removed from GitHub at the end of July.
+Who wants a copy of the source code can fork this. 
+
 # Disclaimer
 <span style="color: red">
  We strongly advise all interested users not to implement it. The project is not finished and has serious security vulnerabilities. We distance ourselves fundamentally from the project and any resulting damage. You are welcome to use the project for your own projects, but this is on your own responsibility. 
